@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuizzAPP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuizzAPP_jar</output-path>
+    <root id="archive" name="QuizzAPP.jar">
+      <element id="module-output" name="QuizzAPP" />
+    </root>
+  </artifact>
+</component>
